@@ -1,5 +1,5 @@
 # TwitterFeedCleaner
-Python script that helps you discover the outdated accounts that you follow on Twitter.
+Python script that helps you discover outdated accounts that you follow on Twitter.
 
 ## Usage:
 First of all, add your Twitter Bearer Token in a environment variable called 'TWITTER_AUTH_KEY' then execute it through the command line as follows:
